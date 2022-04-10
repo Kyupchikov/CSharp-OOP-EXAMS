@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnlineShop.Common.Constants.ExceptionMessages" Collapsed="true">
+    <Position X="29.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAAAADgAAQAAAIgAABQEAADAAEAEBAAAMAAA=</HashCode>
+      <FileName>Common\Constants\ExceptionMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Common.Constants.SuccessMessages" Collapsed="true">
+    <Position X="29.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAACAAAAAAACAQAAAgAAACAAAAACAAAGAAAAAAAAA=</HashCode>
+      <FileName>Common\Constants\SuccessMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Core.CommandInterpreter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAAAAIAAQAAAAAAAAAAAAAAICEAAAAAAICAAA=</HashCode>
+      <FileName>Core\CommandInterpreter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShop.Core.Engine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAAQACAAAQAAI=</HashCode>
+      <FileName>Core\Engine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShop.IO.ConsoleReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\ConsoleReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShop.IO.ConsoleWriter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\ConsoleWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShop.IO.FileWriter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\FileWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShop.Models.Products.CentralProcessingUnit" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Products\CentralProcessingUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Products.Motherboard" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Products\Motherboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Products.PowerSupply" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Products\PowerSupply.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Products.RandomAccessMemory" Collapsed="true">
+    <Position X="14.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Products\RandomAccessMemory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Products.SolidStateDrive" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Products\SolidStateDrive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Component" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAABA=</HashCode>
+      <FileName>Models\Component.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineShop.Models.Computer" Collapsed="true">
+    <Position X="25.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQAAgAEQAIAIQEAACAAAAAAAAAAAAEAAAAAAAAQAA=</HashCode>
+      <FileName>Models\Computer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineShop.Models.Headset" Collapsed="true">
+    <Position X="18.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Headset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Keyboard" Collapsed="true">
+    <Position X="21" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Keyboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Monitor" Collapsed="true">
+    <Position X="23.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Monitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Mouse" Collapsed="true">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Models.Peripheral" Collapsed="true">
+    <Position X="20" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAIAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Peripheral.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineShop.Models.Product" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgTAAAIEQAAAAAEAAAAAAAAAAAAAAAAAAgAAAAIAgA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineShop.Models.VideoCard" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\VideoCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.StartUp" Collapsed="true">
+    <Position X="28" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StartUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OnlineShop.Core.ICommandInterpreter" Collapsed="true">
+    <Position X="28" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ICommandInterpreter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShop.Core.IController" Collapsed="true">
+    <Position X="29.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAABIAAQAAAAAAAAAAAAAAICEAAAAAAIAAAA=</HashCode>
+      <FileName>Core\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShop.Core.IEngine" Collapsed="true">
+    <Position X="31.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Core\IEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShop.IO.IReader" Collapsed="true">
+    <Position X="28" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\IReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShop.IO.IWriter" Collapsed="true">
+    <Position X="29.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\IWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShop.Models.Products.Components.IComponent" Collapsed="true">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Models\Products\Components\IComponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShop.Models.Products.Computers.IComputer" Collapsed="true">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAgAAAAIAIQAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Products\Computers\IComputer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShop.Models.Products.Peripherals.IPeripheral" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Products\Peripherals\IPeripheral.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShop.Models.Products.IProduct" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Models\Products\IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="OnlineShop.Common.Enums.CommandType" Collapsed="true">
+    <Position X="28" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAAQAAAAAAAAAAAAAAICEAAAAAAKCAAA=</HashCode>
+      <FileName>Common\Enums\CommandType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OnlineShop.Common.Enums.ComponentType" Collapsed="true">
+    <Position X="29.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABQAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAACAAAE=</HashCode>
+      <FileName>Common\Enums\ComponentType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OnlineShop.Common.Enums.ComputerType" Collapsed="true">
+    <Position X="31.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Enums\ComputerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OnlineShop.Common.Enums.PeripheralType" Collapsed="true">
+    <Position X="28" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAEAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Enums\PeripheralType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
